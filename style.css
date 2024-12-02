@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
 
 :root {
-  --bg-color: #BF2EF0;
-  --primary-color: #FFF6EA;
-  --secundary-color: #FEECB3;
+  --bg-color: #222831;
+  --primary-color: #DDDDDD;
+  --secundary-color: #F05454;
   --font: Josefin Sans;
 } 
 body {
