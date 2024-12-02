@@ -1,5 +1,5 @@
 async function quantidadeUsuarios() {
-    const url = ' {
+    const url = ' https://raw.githubusercontent.com/silviosnjr/CienciaDeDados-CriandoGraficosDinamicosComJavaScript/refs/heads/Aula01/transporte/transporte-dados-globais.json'
     "total_trabalhadores_mundo": 3.0e9,
     "total_pessoas_que_necessitam_transporte_para_trabalho": 2.0e9,
     "tempo_medio_deslocamento_para_trabalho": 0.9,
